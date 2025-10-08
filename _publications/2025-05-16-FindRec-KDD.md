@@ -1,0 +1,10 @@
+---
+title: "FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation"
+collection: publications
+permalink: /publication/findrec-kdd25
+excerpt: 'Published in KDD 2025 (CCF-A). A novel framework for multi-modal recommendation.'
+date: 2025-08-01
+venue: 'Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data mining (KDD &apos;25)'
+paperurl: 'https://arxiv.org/abs/2507.04651' # <--- 替换成真实的链接
+citation: "Maolin Wang*, Yutian Xiao*, Binhao Wang*, Sheng Zhang, et al. (2025). &quot;FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation.&quot; <i>KDD &apos;25</i>."
+---
