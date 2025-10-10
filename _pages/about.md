@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the College of Computing at the City University of Hong Kong. My research interests include recommender systems, knowledge graphs, and large language models.
+I will be joining the College of Computing at the City University of Hong Kong as a Ph.D. student in Spring 2026. I am thrilled to continue my research under the supervision of Prof. Xiangyu Zhao, with whom I also had the privilege of working during my M.Sc. studies at CityU. My research focuses on the intersection of recommender systems, knowledge graphs, and large language models. I completed my undergraduate studies at Xiamen University.
 
 Education
 ======
@@ -16,10 +16,10 @@ Education
     *   Ph.D. in Data Science, College of Computing, *Expected Start Jan. 2026*
 *   **City University of Hong Kong**
     *   M.Sc. in Data Science, College of Computing, *Sep. 2024 - Expected Oct. 2025*
-    *   GPA: **3.99/4.0** (Distinction)
+    *   *Graduated with **Distinction***
 *   **Xiamen University**
     *   B.Sc. in Mathematical Statistics, WISE, *Sep. 2019 - Jun. 2023*
-    *   GPA: **3.52/4.0** (Top 10%)
+    *   *Overall Ranking: **Top 10%***
     *   B.Sc. in Chemistry, College of Chemistry and Chemical Engineering
 
 Honors & Awards
