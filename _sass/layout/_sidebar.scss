@@ -97,10 +97,10 @@
     max-width: 150px;
     border-radius: 6px;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      // border: 1px solid var(--global-border-color);
-    }
+    // @include breakpoint($large) {
+    //   padding: 5px;
+    //   // border: 1px solid var(--global-border-color);
+    // }
   }
 }
 
