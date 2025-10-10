@@ -23,7 +23,7 @@ repository               : "BinhaoWang/BinhaoWang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-mine.jpg"
+  avatar           : "bio-photo-square.jpg"
   name             : "Binhao Wang" # author name
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Data Science at CityU HK. My research focuses on recommender systems, knowledge graphs and LLM."
